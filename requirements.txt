@@ -1,0 +1,8 @@
+pandas            # tableaux, regroupement des bougies en échelles quelconques
+numpy
+requests          # API publique Binance (bougies) et CoinGecko (Top N)
+pyarrow           # stockage Parquet : une année en 1 minute dépasse la limite d'Excel
+openpyxl          # exports Excel
+matplotlib        # graphiques
+customtkinter     # interface graphique (python Dashboard.py)
+numba             # facultatif : zigzag, ranges et drapeaux compilés, bien plus rapides

@@ -1,0 +1,7 @@
+# Données et résultats régénérables
+donnees/
+resultats/
+
+# Caches
+__pycache__/
+*.py[cod]
